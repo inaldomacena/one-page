@@ -36,3 +36,8 @@
     
   }
   
+
+  .figure{
+    display: flex;
+    justify-content: center;
+  }
